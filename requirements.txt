@@ -1,0 +1,6 @@
+fastapi
+torch
+sentence_transformers
+pymupdf
+pandas
+streamlit
