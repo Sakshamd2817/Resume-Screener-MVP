@@ -15,7 +15,3 @@ This project is an AI-powered resume screening tool built using **FastAPI** and 
 - Semantic similarity with job description
 - Outputs similarity score and eligibility
 
-## 🧪 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/resume-screener
