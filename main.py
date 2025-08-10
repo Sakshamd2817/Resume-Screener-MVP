@@ -14,7 +14,7 @@ class JobInput(BaseModel):
     description: str
     education: str
     min_exp: int
-    skills: str
+    skills: str 
 
 # ------------------------
 # Folder Setup
@@ -91,3 +91,4 @@ async def upload_file(
         "message": "Resumes processed successfully.",
         "results": results
     }
+
